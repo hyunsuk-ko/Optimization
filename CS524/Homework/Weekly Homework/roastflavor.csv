@@ -1,0 +1,6 @@
+﻿Roasting Method,Cost/ounce,Acidity,Nuttiness,Boldness,Chocolate,Fruitiness
+r1,0.2,0.6,1,0.1,0.2,0.6
+r2,0.3,0.7,0.4,0.4,0.7,0.3
+r3,0.4,0.4,0.1,0.8,0.4,0.6
+Min,,583,439,1000,1500,485
+Max,,5000,4608,4194,4093,4803
